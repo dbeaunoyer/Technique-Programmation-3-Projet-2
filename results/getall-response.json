@@ -1,0 +1,127 @@
+[
+    {
+        "destination": "Mexique",
+        "villedepart": "Vancouver",
+        "hotel": {
+            "nom": "Cerveza-Por Favor",
+            "coordonnees": "111 Biera, Mexico",
+            "etoiles": "4",
+            "chambres": "1200",
+            "caracteristiques": [
+                "bar",
+                " piscine",
+                " vue plage",
+                " golf",
+                " spa"
+            ]
+        },
+        "datedepart": "2022-02-10",
+        "dateretour": "2022-02-25",
+        "prix": "899.00",
+        "rabais": "299.99",
+        "vedette": "1"
+    },
+    {
+        "destination": "Cuba",
+        "villedepart": "Montréal",
+        "hotel": {
+            "nom": "Hotel Vedado",
+            "coordonnees": "251 Una Dos La Havane",
+            "etoiles": "3",
+            "chambres": "987",
+            "caracteristiques": [
+                "tout-inclus",
+                " plage",
+                " bar",
+                " piscine"
+            ]
+        },
+        "datedepart": "2022-02-10",
+        "dateretour": "2022-02-17",
+        "prix": "999.99",
+        "rabais": "119.99",
+        "vedette": "1"
+    },
+    {
+        "destination": "Barbade",
+        "villedepart": "Edmonton",
+        "hotel": {
+            "nom": "The Sands Barbados",
+            "coordonnees": "3986 Barbados, Bridgetown",
+            "etoiles": "4",
+            "chambres": "165",
+            "caracteristiques": [
+                "VIP",
+                " suite",
+                " limousine",
+                " croisière"
+            ]
+        },
+        "datedepart": "2022-03-01",
+        "dateretour": "2022-03-10",
+        "prix": "3252.99",
+        "rabais": "199.99",
+        "vedette": "1"
+    },
+    {
+        "destination": "Paris",
+        "villedepart": "Montréal",
+        "hotel": {
+            "nom": "EauChan-Hélizay",
+            "coordonnees": "325 Champs-Élysée, Paris",
+            "etoiles": "5",
+            "chambres": "300",
+            "caracteristiques": [
+                "piscine",
+                "spa"
+            ]
+        },
+        "datedepart": "2022-03-10",
+        "dateretour": "2022-03-17",
+        "prix": "2455.99",
+        "rabais": "99.99",
+        "vedette": "1"
+    },
+    {
+        "destination": "Costa Rica",
+        "villedepart": "Montréal",
+        "hotel": {
+            "nom": "Beach Break Resort",
+            "coordonnees": "200M South of the Muni of Jaco Beach, Jaco",
+            "etoiles": "4",
+            "chambres": "825",
+            "caracteristiques": [
+                "Wi-Fi",
+                " golf",
+                " tennis",
+                " mariage",
+                " réception"
+            ]
+        },
+        "datedepart": "2021-04-01",
+        "dateretour": "2021-04-08",
+        "prix": "659.25",
+        "rabais": "95.00",
+        "vedette": "1"
+    },
+    {
+        "destination": "Montréal",
+        "villedepart": "Toronto",
+        "hotel": {
+            "nom": "Delta",
+            "coordonnees": "555 Gauchetière",
+            "etoiles": "4",
+            "chambres": "1450",
+            "caracteristiques": [
+                "spa",
+                "piscine",
+                "massothérapie"
+            ]
+        },
+        "datedepart": "2021-02-22",
+        "dateretour": "2021-03-06",
+        "prix": "1100.99",
+        "rabais": "0.00",
+        "vedette": "0"
+    }
+]
